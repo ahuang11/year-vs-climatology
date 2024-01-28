@@ -43,6 +43,7 @@ This app allows you to compare a single year of data from a weather station to t
 1. Select a network station from the dropdowns; alternatively you can click on the map to select the nearest station.
 2. Choose the desired variable and year to plot, and change the average range if desired.
 3. Hover over the plot to see the value for each day; use the mouse wheel to zoom in/out.
+4. Tap on the top plot to see the value for a specific day, compared to all other years in the average range.
 """
 
 FOOTER_MESSAGE = """
