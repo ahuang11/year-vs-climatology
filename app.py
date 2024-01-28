@@ -198,6 +198,7 @@ class ClimateApp(pn.viewable.Viewer):
             main_layout=None,
             title="Year vs Climatology",
             accent="grey",
+            header_background="#1b1e23",
         )
         pn.state.onload(self._onload)
 
